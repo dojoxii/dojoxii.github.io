@@ -1,0 +1,20 @@
+* {
+    color: #ea4aaa; 
+    background-color: #0c162d;
+}
+
+a:link {
+  color: #0dbc79;
+}
+
+a:visited {
+  color: #0dbc79;
+}
+
+a:hover {
+  color: #0dbc79;
+}
+
+a:active {
+  color: #0dbc79;
+} 
